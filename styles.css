@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(26, 72, 141);
+}
+
+h1 {
+    background-color: indianred;
+    color: rgb(6, 56, 49);
+}
+
+.links {
+    color: #ffffff;
+}
+
+h1,
+.links {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
